@@ -1,0 +1,15 @@
+artifact_uri: file:///home/daibaiyang/projects/sentiment_analysis/yelp/mlruns/843534044665606411/8a71be2803ce4208bec33274acb559bb/artifacts
+end_time: 1694640980325
+entry_point_name: ''
+experiment_id: '843534044665606411'
+lifecycle_stage: active
+run_id: 8a71be2803ce4208bec33274acb559bb
+run_name: learned-stork-930
+run_uuid: 8a71be2803ce4208bec33274acb559bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694638592918
+status: 4
+tags: []
+user_id: daibaiyang
