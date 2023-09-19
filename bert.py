@@ -159,7 +159,7 @@ with mlflow.start_run():
             valid_accuracy = compute_accuracy(model, valid_loader, DEVICE)
             test_accuracy = compute_accuracy(model, test_loader, DEVICE)
 
-            mlflow.log_metric(key='Train Loss', value=torch.mean(epoch_loss), step = epoch+1)
+            mlflow.log_metric(key='Train Loss', value=torch.tensor(epoch_loss).float().mean(), step = epoch+1)
             mlflow.log_metric(key='Train accuracy', value=train_accuracy, step = epoch+1)
             mlflow.log_metric(key='Valid accuracy', value=valid_accuracy, step = epoch+1)
             mlflow.log_metric(key='Test accuracy', value=test_accuracy, step = epoch+1)

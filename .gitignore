@@ -1,2 +1,5 @@
 .ipynb_checkpoints/
-mlruns/
+mlruns/mlruns/
+mlruns/models/
+mlruns/.trash/
+mlruns/654881167884125464/4b267f082b1b4ebe9636b9c100d784a4/artifacts/

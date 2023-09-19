@@ -1,0 +1,15 @@
+artifact_uri: file:///home/daibaiyang/projects/sentiment_analysis/yelp/mlruns/654881167884125464/4b267f082b1b4ebe9636b9c100d784a4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '654881167884125464'
+lifecycle_stage: active
+run_id: 4b267f082b1b4ebe9636b9c100d784a4
+run_name: exultant-crab-439
+run_uuid: 4b267f082b1b4ebe9636b9c100d784a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695069487039
+status: 1
+tags: []
+user_id: daibaiyang
