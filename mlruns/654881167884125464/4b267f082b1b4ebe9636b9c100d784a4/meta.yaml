@@ -1,5 +1,5 @@
 artifact_uri: file:///home/daibaiyang/projects/sentiment_analysis/yelp/mlruns/654881167884125464/4b267f082b1b4ebe9636b9c100d784a4/artifacts
-end_time: null
+end_time: 1695318808555
 entry_point_name: ''
 experiment_id: '654881167884125464'
 lifecycle_stage: active
@@ -10,6 +10,6 @@ source_name: ''
 source_type: 4
 source_version: ''
 start_time: 1695069487039
-status: 1
+status: 3
 tags: []
 user_id: daibaiyang
